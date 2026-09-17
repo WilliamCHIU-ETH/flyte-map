@@ -52,3 +52,8 @@ flowchart TD
 ## 證據
 
 `executor/pkg/controller/taskaction_controller.go`（`reconcileTimedOutAttempt`、`resetPluginResource`、`finalizePermanentFailure`、`maxSystemFailures`、`handleAbortAndFinalize`）、`runs/service/abort_reconciler.go`、`runs/migrations/sql/20260408110000_init_schema.sql`（`idx_actions_abort_pending`）、`flyteidl2/actions/actions_service.proto`（`Abort` 連鎖說明）。
+
+<!-- nav -->
+---
+
+上一頁 [03 · 父子 action 的 Watch 與 Enqueue](./parent-child-watch.md) ｜ [總覽](../README.md) ｜ 下一頁 [03 · devbox 拓樸](./devbox-topology.md)

@@ -37,3 +37,8 @@ flowchart TD
 ## 證據
 
 `CONTRIBUTING.md`、`CODEOWNERS`、`.github/workflows/check-generate.yml`、`Makefile`、`docs/rfcs/20260804_settings_service.md`。
+
+<!-- nav -->
+---
+
+上一頁 [06 · 哪個分支或 repo](./which-branch-or-repo.md) ｜ [總覽](../README.md) ｜ 下一頁 [06 · 哪些 label 適合新手](./labels-for-newcomers.md)

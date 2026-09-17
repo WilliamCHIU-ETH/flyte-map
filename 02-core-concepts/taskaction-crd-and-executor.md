@@ -69,3 +69,8 @@ Kubernetes 慣例是用少數幾個 condition 表達「大狀態」，用 reason
 ## 證據
 
 `executor/api/v1/taskaction_types.go`、`executor/pkg/controller/taskaction_controller.go`、`executor/pkg/controller/taskaction_condition.go`、`executor/pkg/controller/garbage_collector.go`、`executor/config/crd/bases/`、`executor/README.md`。
+
+<!-- nav -->
+---
+
+上一頁 [02 · 沒有 DAG](./no-dag-dynamic-enqueue.md) ｜ [總覽](../README.md) ｜ 下一頁 [02 · Plugin 體系](./plugins.md)

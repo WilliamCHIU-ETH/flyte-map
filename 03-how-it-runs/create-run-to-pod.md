@@ -58,3 +58,8 @@ sequenceDiagram
 ## 證據
 
 `runs/service/run_service.go`、`runs/service/settings_resolve.go`、`actions/k8s/client.go`、`executor/pkg/controller/taskaction_controller.go`、`flyteidl2/workflow/run_service.proto`、`flyteidl2/workflow/internal_run_service.proto`、`manager/README.md` 的「How It Works」。
+
+<!-- nav -->
+---
+
+上一頁 [02 · 控制面與資料面](../02-core-concepts/control-plane-vs-data-plane.md) ｜ [總覽](../README.md) ｜ 下一頁 [03 · 父子 action 的 Watch 與 Enqueue](./parent-child-watch.md)

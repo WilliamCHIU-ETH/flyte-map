@@ -57,3 +57,8 @@ proto 裡的 `ActionPhase` 是對外 API 用的；`TaskAction` 自訂資源上�
 ## 證據
 
 `flyteidl2/common/phase.proto`、`flyteidl2/workflow/run_service.proto`、`flyteidl2/workflow/state_service.proto`、`flyteidl2/actions/actions_service.proto`、`runs/service/run_service.go`（`IsTerminalPhase`）。
+
+<!-- nav -->
+---
+
+上一頁 [02 · Run 與 Action 樹](./run-and-action-tree.md) ｜ [總覽](../README.md) ｜ 下一頁 [02 · 沒有 DAG](./no-dag-dynamic-enqueue.md)

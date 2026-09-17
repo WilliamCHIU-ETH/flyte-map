@@ -44,3 +44,8 @@ flowchart TD
 ## 證據
 
 `README.md` 的 Flyte 1 與 2 說明、`master` 分支的頂層目錄、快照當日的 issue label 清單、`CODEOWNERS`、`flyteorg` 組織的 repo 清單。
+
+<!-- nav -->
+---
+
+上一頁 [05 · 旅程 4：第一個 PR](../05-contribution-paths/first-pr.md) ｜ [總覽](../README.md) ｜ 下一頁 [06 · proto 還是 Go](./proto-or-go.md)

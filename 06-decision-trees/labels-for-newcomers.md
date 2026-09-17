@@ -35,3 +35,8 @@
 ## 證據
 
 快照當日 `gh api repos/flyteorg/flyte/labels` 與 `gh issue list` 的結果、`.github/labeler.yml`、`.github/workflows/pr-quality.yml`。
+
+<!-- nav -->
+---
+
+上一頁 [06 · proto 還是 Go](./proto-or-go.md) ｜ [總覽](../README.md) ｜ 讀完了

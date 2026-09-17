@@ -34,3 +34,8 @@
 ## 證據
 
 `CONTRIBUTING.md`（Modifying Protocol Buffers、Testing and Verification）、`Makefile`、`docs/BACKEND_README.md`、`.github/workflows/check-generate.yml`、`CODEOWNERS`、`flyteidl2/gen_utils/`。
+
+<!-- nav -->
+---
+
+上一頁 [05 · 旅程 2：從 issue 到檔案](./from-issue-to-code.md) ｜ [總覽](../README.md) ｜ 下一頁 [05 · 旅程 4：第一個 PR](./first-pr.md)

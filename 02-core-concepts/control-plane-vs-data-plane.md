@@ -53,3 +53,8 @@ devbox 用 RustFS 當物件儲存，`scripts/start-rustfs.sh` 可以單獨啟動
 ## 證據
 
 `dataproxy/README.md`、`flyteidl2/dataproxy/dataproxy_service.proto`、`flytecopilot/README.md`、`flyteplugins/go/tasks/pluginmachinery/flytek8s/copilot.go`、`cache_service/migrations/sql/`、`flyteidl2/task/run.proto`（`RawDataStorage`、`CacheLookupScope`）、`flyteidl2/cluster/service.proto`。
+
+<!-- nav -->
+---
+
+上一頁 [02 · 統一 manager 與八個服務](./manager-and-services.md) ｜ [總覽](../README.md) ｜ 下一頁 [03 · 從 flyte.run() 到 Pod 結束](../03-how-it-runs/create-run-to-pod.md)

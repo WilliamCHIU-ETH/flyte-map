@@ -48,3 +48,8 @@ flowchart TD
 ## 證據
 
 快照當日 `gh issue list --label "good first issue"` 的結果、`flyteidl2/workflow/run_definition.proto`、`executor/pkg/config/`、`executor/setup.go`、`flytestdlib/promutils/`、各目錄的 `test/`。
+
+<!-- nav -->
+---
+
+上一頁 [05 · 旅程 1：跑起 devbox](./run-devbox-and-watch-a-run.md) ｜ [總覽](../README.md) ｜ 下一頁 [05 · 旅程 3：改一個 proto 欄位](./change-a-proto-field.md)

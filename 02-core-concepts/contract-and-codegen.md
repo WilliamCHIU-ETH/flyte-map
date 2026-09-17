@@ -49,3 +49,8 @@ flowchart LR
 ## 證據
 
 `buf.yaml`、`buf.gen.go.yaml`、`buf.gen.ts.yaml`、`buf.gen.python.yaml`、`buf.gen.rust.yaml`、`Makefile`、`.mockery.yaml`、`.github/workflows/check-generate.yml`、`CODEOWNERS`、`CONTRIBUTING.md`、`flyteidl2/` 目錄清單。
+
+<!-- nav -->
+---
+
+上一頁 [02 · Plugin 體系](./plugins.md) ｜ [總覽](../README.md) ｜ 下一頁 [02 · 統一 manager 與八個服務](./manager-and-services.md)

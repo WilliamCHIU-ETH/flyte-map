@@ -58,3 +58,8 @@ plugin 透過 `TaskExecutionContext` 拿到它需要的東西：序列化的 `Ta
 ## 證據
 
 `executor/plugins/loader.go`、`executor/setup.go`、`executor/pkg/plugin/`、`flyteplugins/go/tasks/pluginmachinery/core/`、`flyteplugins/go/tasks/pluginmachinery/flytek8s/`、`flyteplugins/go/tasks/plugins/`、`executor/pkg/webhook/`。
+
+<!-- nav -->
+---
+
+上一頁 [02 · TaskAction CRD 與 Executor](./taskaction-crd-and-executor.md) ｜ [總覽](../README.md) ｜ 下一頁 [02 · 契約優先與多語言產碼](./contract-and-codegen.md)

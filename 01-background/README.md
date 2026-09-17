@@ -47,3 +47,8 @@ Helm 是 Kubernetes 的套件管理，一個 chart 是一組可帶參數的 YAML
 ## 證據
 
 `executor/README.md`、`flytecopilot/README.md`、`buf.yaml`、`buf.gen.go.yaml`、`charts/`、`docker/devbox-bundled/`。外部連結為各工具官方文件。
+
+<!-- nav -->
+---
+
+上一頁 [00 · Flyte 2 是什麼](../00-what-is-flyte2.md) ｜ [總覽](../README.md) ｜ 下一頁 [02 · 核心概念總表](../02-core-concepts/README.md)

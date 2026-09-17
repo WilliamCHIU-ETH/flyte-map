@@ -53,3 +53,8 @@ flowchart TD
 ## 證據
 
 `flyteidl2/task/task_definition.proto`、`flyteidl2/task/environment.proto`、`flyteidl2/task/run.proto`、`flyteidl2/core/tasks.proto`、`flyteidl2/workflow/run_definition.proto`、`flyteidl2/workflow/tracked_run_service.proto`（`a0` 慣例）。
+
+<!-- nav -->
+---
+
+上一頁 [02 · 核心概念總表](./README.md) ｜ [總覽](../README.md) ｜ 下一頁 [02 · ActionPhase 狀態機](./action-phase.md)

@@ -77,3 +77,8 @@ flowchart LR
 ## 證據
 
 快照 `f7628a55` 的 `git ls-tree -r`；各目錄的 `README.md`；`docs/IMPLEMENTATION_SPEC.md` 與 `manager/README.md` 的對照。
+
+<!-- nav -->
+---
+
+上一頁 [03 · devbox 拓樸](../03-how-it-runs/devbox-topology.md) ｜ [總覽](../README.md) ｜ 下一頁 [04 · CI 檢查什麼、誰來核](./ci-and-owners.md)

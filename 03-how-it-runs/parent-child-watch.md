@@ -70,3 +70,8 @@ sequenceDiagram
 ## 證據
 
 `actions/service/actions_service.go`（`WatchForUpdates`、`Signal`）、`actions/k8s/client.go`（`Subscribe`、`Signal`）、`flyteidl2/actions/actions_service.proto`、`flyteidl2/workflow/run_definition.proto`（`ConditionAction`、`ConditionWebhook`）、`runs/service/run_service.go`（`SignalEvent`、`payloadToLiteral`）。
+
+<!-- nav -->
+---
+
+上一頁 [03 · 從 flyte.run() 到 Pod 結束](./create-run-to-pod.md) ｜ [總覽](../README.md) ｜ 下一頁 [03 · 失敗、重試、超時、中止](./failure-retry-abort.md)

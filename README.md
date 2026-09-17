@@ -47,6 +47,35 @@ flowchart LR
 | 05 貢獻路徑 | 四條從理解走到第一個 PR 的旅程 | [05-contribution-paths](./05-contribution-paths/run-devbox-and-watch-a-run.md) |
 | 06 決策樹 | 這個問題屬於哪個分支或 repo、要動 proto 還是只動 Go、哪些 label 適合新手 | [06-decision-trees](./06-decision-trees/which-branch-or-repo.md) |
 
+## 完整閱讀順序
+
+每頁尾都有「上一頁 ｜ 總覽 ｜ 下一頁」，可從第一頁一路讀到底。
+
+1. [00 · Flyte 2 是什麼](./00-what-is-flyte2.md)
+2. [01 · 背景知識](./01-background/README.md)
+3. [02 · 核心概念總表](./02-core-concepts/README.md)
+4. [02 · Run 與 Action 樹](./02-core-concepts/run-and-action-tree.md)
+5. [02 · ActionPhase 狀態機](./02-core-concepts/action-phase.md)
+6. [02 · 沒有 DAG](./02-core-concepts/no-dag-dynamic-enqueue.md)
+7. [02 · TaskAction CRD 與 Executor](./02-core-concepts/taskaction-crd-and-executor.md)
+8. [02 · Plugin 體系](./02-core-concepts/plugins.md)
+9. [02 · 契約優先與多語言產碼](./02-core-concepts/contract-and-codegen.md)
+10. [02 · 統一 manager 與八個服務](./02-core-concepts/manager-and-services.md)
+11. [02 · 控制面與資料面](./02-core-concepts/control-plane-vs-data-plane.md)
+12. [03 · 從 flyte.run() 到 Pod 結束](./03-how-it-runs/create-run-to-pod.md)
+13. [03 · 父子 action 的 Watch 與 Enqueue](./03-how-it-runs/parent-child-watch.md)
+14. [03 · 失敗、重試、超時、中止](./03-how-it-runs/failure-retry-abort.md)
+15. [03 · devbox 拓樸](./03-how-it-runs/devbox-topology.md)
+16. [04 · 程式碼地形](./04-code-terrain/directory-map.md)
+17. [04 · CI 檢查什麼、誰來核](./04-code-terrain/ci-and-owners.md)
+18. [05 · 旅程 1：跑起 devbox](./05-contribution-paths/run-devbox-and-watch-a-run.md)
+19. [05 · 旅程 2：從 issue 到檔案](./05-contribution-paths/from-issue-to-code.md)
+20. [05 · 旅程 3：改一個 proto 欄位](./05-contribution-paths/change-a-proto-field.md)
+21. [05 · 旅程 4：第一個 PR](./05-contribution-paths/first-pr.md)
+22. [06 · 哪個分支或 repo](./06-decision-trees/which-branch-or-repo.md)
+23. [06 · proto 還是 Go](./06-decision-trees/proto-or-go.md)
+24. [06 · 哪些 label 適合新手](./06-decision-trees/labels-for-newcomers.md)
+
 ## 這張地圖不涵蓋什麼
 
 1. 不涵蓋 Flyte 1（`master` 分支）以及 flyteadmin、flytepropeller 的內部。

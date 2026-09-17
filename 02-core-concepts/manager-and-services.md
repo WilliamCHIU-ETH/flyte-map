@@ -59,3 +59,8 @@ flowchart TD
 ## 證據
 
 `manager/cmd/main.go`、`manager/cmd/components.go`、`manager/README.md`、各 component 的 `setup.go`、`runs/migrations/sql/`、`cache_service/migrations/sql/`、`charts/*/Chart.yaml`、`flytestdlib/`。
+
+<!-- nav -->
+---
+
+上一頁 [02 · 契約優先與多語言產碼](./contract-and-codegen.md) ｜ [總覽](../README.md) ｜ 下一頁 [02 · 控制面與資料面](./control-plane-vs-data-plane.md)

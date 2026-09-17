@@ -40,3 +40,8 @@
 ## 證據
 
 `CONTRIBUTING.md`、`Makefile`、`manager/README.md`、`manager/config.yaml`、`runs/test/scripts/`、`README.md`。
+
+<!-- nav -->
+---
+
+上一頁 [04 · CI 檢查什麼、誰來核](../04-code-terrain/ci-and-owners.md) ｜ [總覽](../README.md) ｜ 下一頁 [05 · 旅程 2：從 issue 到檔案](./from-issue-to-code.md)

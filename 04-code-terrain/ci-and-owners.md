@@ -59,3 +59,8 @@ flowchart LR
 ## 證據
 
 `.github/workflows/` 清單、`go-tests.yml`、`check-generate.yml`、`pr-quality.yml`、`devbox.yml`、`flyte-binary-v2.yml`、`CODEOWNERS`、`.github/dco.yml`、`CONTRIBUTING.md`、快照當日的 issue label 清單。
+
+<!-- nav -->
+---
+
+上一頁 [04 · 程式碼地形](./directory-map.md) ｜ [總覽](../README.md) ｜ 下一頁 [05 · 旅程 1：跑起 devbox](../05-contribution-paths/run-devbox-and-watch-a-run.md)

@@ -41,3 +41,8 @@ Flyte 1 與 Flyte 2 換了一套名詞。讀 issue、Slack 或舊文章時先對
 ## 證據
 
 `flyteidl2/` 各套件名稱、`manager/README.md`、Flyte 1 的名詞來自 `master` 分支的目錄名。
+
+<!-- nav -->
+---
+
+上一頁 [01 · 背景知識](../01-background/README.md) ｜ [總覽](../README.md) ｜ 下一頁 [02 · Run 與 Action 樹](./run-and-action-tree.md)

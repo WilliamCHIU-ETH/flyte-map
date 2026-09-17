@@ -46,3 +46,8 @@ SDK 端 controller 到底怎麼寫、用哪幾個 RPC、在 Python 還是 Rust�
 ## 證據
 
 `flyteidl2/workflow/` 目錄清單、`flyteidl2/actions/actions_service.proto`、`manager/README.md`、`flyteidl2/task/run.proto`（`Recover`）、`runs/service/run_state_manager.go`。
+
+<!-- nav -->
+---
+
+上一頁 [02 · ActionPhase 狀態機](./action-phase.md) ｜ [總覽](../README.md) ｜ 下一頁 [02 · TaskAction CRD 與 Executor](./taskaction-crd-and-executor.md)
